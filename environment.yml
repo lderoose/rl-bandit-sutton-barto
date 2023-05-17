@@ -1,0 +1,13 @@
+name: rl
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - ipykernel
+  - numpy
+  - matplotlib
+  - pandas
+  - tqdm
+  - scipy
+  - seaborn
+prefix: /home/user/miniconda3/envs/rl
